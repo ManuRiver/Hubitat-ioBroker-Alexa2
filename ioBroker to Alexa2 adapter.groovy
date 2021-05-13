@@ -6,7 +6,7 @@
  * 
  */
 metadata {
-    definition(name: "ioBroker to Alexa2 adapter", namespace: "iobroker", author: "manuriver", importUrl: "") {
+    definition(name: "ioBroker to Alexa2 adapter", namespace: "iobroker", author: "manuriver", importUrl: "https://raw.githubusercontent.com/ManuRiver/Hubitat-ioBroker-Alexa2/main/ioBroker%20to%20Alexa2%20adapter.groovy") {
         capability "Actuator"
         capability "Switch"
         capability "Sensor"
